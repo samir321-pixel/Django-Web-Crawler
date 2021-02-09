@@ -28,8 +28,7 @@
 ## 🚀&nbsp; Setup Instructions
 First make sure that you have the following installed.
  * Python 3
- * Node.js
- * Redis MSI
+
 Now do the following to setup project.
 
 First, clone the repository to your local machine:
